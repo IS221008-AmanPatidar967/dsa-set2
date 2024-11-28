@@ -13,3 +13,4 @@ int main() {
     }
     printf("Inversion count: %d\n", i_count);
     return 0;
+}
